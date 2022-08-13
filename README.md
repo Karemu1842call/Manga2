@@ -2,7 +2,7 @@
 # program Instructor
 
 ## Getting started.
-1. To get started you can clone the repository of the program to your machine.
+1. To get started you can clone the repository of the program to your machine.By copying the following url by typing git clone (https://github.com/Karemu1842call/Manga2)
 2. Install dependencies on your  machine,type "npm install" this will install the react server on your machine.
 
 # Program preview.
